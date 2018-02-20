@@ -1,6 +1,7 @@
+console.log('__dirname: ', __dirname);
 moment = require('moment');
 
-let count = 0;
+var count = 0;
 function c() {
 	return c++;
 }
